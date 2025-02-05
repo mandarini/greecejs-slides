@@ -3,7 +3,7 @@ layout: center
 ---
 
 <div class="title-container">
-  <h1>Scaling and Optimizing React Apps Isn't Easy</h1>
+  <h1>Scaling and Optimizing Apps Isn't Easy</h1>
 </div>
 
 <div class="mt-8 flex flex-col items-center justify-center">

@@ -4,7 +4,7 @@ layout: default
 
 <div class="title-container">
   <h1 class="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-    Nx Supercharges React Development
+    Nx Supercharges Development
   </h1>
 </div>
 

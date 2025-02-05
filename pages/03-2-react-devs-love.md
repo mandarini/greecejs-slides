@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="title-container">
-  <h1>Why React Developers Love Nx</h1>
+  <h1>Why Developers Love Nx</h1>
 </div>
 
 <div class="mt-12 grid grid-cols-3 gap-8 px-4">

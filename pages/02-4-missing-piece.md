@@ -3,12 +3,12 @@ layout: center
 ---
 
 <div class="title-container">
-  <h1>Nx: The Missing Piece for React Developers</h1>
+  <h1>Nx: The Missing Piece for Developers</h1>
 </div>
 
 <div class="mt-8 flex flex-col items-center justify-center">
   <div class="text-xl max-w-2xl text-center mb-12">
-    Nx brings cohesion to the React ecosystem, simplifying development with powerful automation and tooling integration.
+    Nx brings cohesion to the web ecosystem, simplifying development with powerful automation and tooling integration.
   </div>
 </div>
 
