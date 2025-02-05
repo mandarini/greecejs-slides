@@ -17,4 +17,4 @@ layout: default
 
 - [https://github.com/mandarini/react-nx-africa-demo](https://github.com/mandarini/react-nx-africa-demo) 
 - [https://github.com/mandarini/vanilla-react-with-nx](https://github.com/mandarini/vanilla-react-with-nx)
-- [Nx Cloud for demo](https://staging.nx.app/orgs/66ec59aaf76d115a9da91166/workspaces/672ddb3aadf73e8380807171/overview)
+- [Nx Cloud for demo](https://staging.nx.app/cipes/67a366b41eb1c50e9eccc8d4?runGroup=13158377624-1-linux)
