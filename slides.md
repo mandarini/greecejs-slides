@@ -7,7 +7,7 @@ lineNumbers: false
 drawings:
   persist: false
 transition: slide-left
-title: Revolutionize Your React dev flow with Nx
+title: Scaling, CI, slow pipelines, maintenance - I have the solution for your pain
 mdc: true
 colorSchema: dark
 ---

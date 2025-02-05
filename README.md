@@ -1,5 +1,5 @@
 
-# Revolutionize Your React dev flow with Nx
+# Scaling, CI, slow pipelines, maintenance - I have the solution for your pain
 
 Presentation for GreeceJS by Katerina Skroumpelou.
 

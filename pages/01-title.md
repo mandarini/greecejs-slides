@@ -1,7 +1,7 @@
-# Revolutionize Your React dev flow with Nx
+# Scaling, CI, slow pipelines, maintenance - I have the solution for your pain
 
 <div class="text-xl text-gray-500 mt-4">
-Building, Scaling, and Optimizing React Applications Made Simple
+Building, Scaling, and Optimizing Made Simple
 </div>
 
 <div class="mt-12">
@@ -27,16 +27,8 @@ Building, Scaling, and Optimizing React Applications Made Simple
       alt="Nx Cloud logo" 
     />
   </div>
-   <div class="text-4xl font-bold">+</div>
- <div class="w-32 h-32 bg-gray-200 dark:bg-gray-800 rounded flex items-center justify-center">
-   <img 
-      src="../images/react.png" 
-      alt="React logo" 
-      class="max-w-full max-h-full object-contain"
-    />
-  </div>
     <div class="text-4xl font-bold">=</div>
-  <div class="text-4xl">❤️⚡️</div>
+  <div class="text-4xl">🏎️🚀</div>
 </div>
 
 <br>
