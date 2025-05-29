@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What's New in the Nx Cloud App
+# More features and security
 
 <div class="mt-12">
   <div class="grid grid-cols-3 gap-6">
