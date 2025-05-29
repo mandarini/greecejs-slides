@@ -17,5 +17,5 @@ layout: center
 </div>
 
 <div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
-  @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - GreeceJS - 5 Feb 2025
+  @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - CityJS - 30 May 2025
 </div>

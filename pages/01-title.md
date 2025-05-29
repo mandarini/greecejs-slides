@@ -1,4 +1,4 @@
-# Scaling, CI, slow pipelines, maintenance - I have the solution for your pain
+# Revolutionize your React dev flow with Nx
 
 <div class="text-xl text-gray-500 mt-4">
 Building, Scaling, and Optimizing Made Simple
