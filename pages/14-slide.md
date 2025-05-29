@@ -2,7 +2,7 @@
 layout: two-cols
 ---
 
-# Secure the cache
+# Secure the cache & download artefacts
 
 <div class="mt-8 pr-8">
   <div v-click class="text-xl mb-8">
