@@ -13,6 +13,6 @@ layout: default
 
 ## Useful links
 
-- [https://github.com/mandarini/react-nx-africa-demo](https://github.com/mandarini/react-nx-africa-demo)
+- [https://github.com/mandarini/react-nx-demo](https://github.com/mandarini/react-nx-demo)
 - [https://github.com/mandarini/vanilla-react-with-nx](https://github.com/mandarini/vanilla-react-with-nx)
-- [Nx Cloud for demo](https://staging.nx.app/cipes/67a366b41eb1c50e9eccc8d4?runGroup=13158377624-1-linux)
+- [Nx Cloud for demo](https://staging.nx.app/cipes/6838fa56985fe67c69a6b8b7)
