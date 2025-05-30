@@ -42,13 +42,8 @@ layout: two-cols
   </div>
   
    <div v-click class="link-item">
-     <a href="https://github.com/mandarini/react-nx-africa-demo" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">Demo:</span>github.com/mandarini/react-nx-africa-demo
-  </a>
-  </div>
-  <div v-click class="link-item">
-     <a href="https://github.com/mandarini/vanilla-react-with-nx" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">Demo#2:</span>github.com/mandarini/vanilla-react-with-nx
+     <a href="https://github.com/mandarini/react-nx-demo" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">Demo:</span>github.com/mandarini/react-nx-demo
   </a>
   </div>
 
@@ -64,7 +59,6 @@ layout: two-cols
     />
   </div>
 </div>
-
 
 <style>
 .link-item {
